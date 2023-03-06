@@ -1,5 +1,4 @@
-QQ:6258055
-2 7 9-15
+
 央视频道,#genre#
 
 CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225642/index.m3u8
